@@ -1,13 +1,12 @@
-# Group-project
-***Team members:***   
-Ye Yu (Beng, Year 1, UID: 3035637527，user name: Yu-1218)    
-Yan Yi (Beng, Year1, UID: 3035638325, user name: Ken-cmyk)  
+# COMP2119 Project
+***Team member:***   
+Ye Yu (Beng, UID: 3035637527，user name: Yu-1218)    
 
 ***How to play it in Linux***  
 **Please use the command "./main" after the command "make" !!!**
   
-***Description of our game:***  
-Our game is a kind of “Monopoly”. The rules are as followed.  
+***Description of this game:***  
+The game is a kind of “Monopoly”. The rules are as followed.  
 **1.Players:**  
 The game will include four players.  
 
